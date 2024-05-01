@@ -1,3 +1,7 @@
+ ### :fire: My stats
+ 
+ [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=FireflyStars&theme=vue-dark&hide_border=true)](https://git.io/streak-stats)
+
 ### Hi there 👋
 
 ``Full Stack Developer (Laravel, ASP.net, Node, React, Vue, Next, Nuxt, TypeScript, JavaScript)``
@@ -172,11 +176,7 @@
 
 📫 You can also send me an email to gotodev7@gmail.com
 
- ## :fire: My stats
- 
- [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=FireflyStars&theme=vue-dark&hide_border=true)](https://git.io/streak-stats)
-  
-  <hr>
+
 <!--
 **FireflyStars/FireflyStars** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
