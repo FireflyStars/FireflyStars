@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-``Software Development | B2B2C | SaaS | Hospitality | Jira Administrator | Full Stack Developer``
+``Full Stack Developer (Laravel, ASP.net, Node, React, Vue, Next, Nuxt, TypeScript, JavaScript)``
 
 ## Languages and Tools
 
