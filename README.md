@@ -6,6 +6,7 @@
 
 ``Full Stack Developer (Laravel, ASP.net, Node, React, Vue, Next, Nuxt, TypeScript, JavaScript)``
 -->
+![](https://komarev.com/ghpvc/?username=fireflystars&color=green)
 ## Languages and Tools
 
 <div>
