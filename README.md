@@ -1,11 +1,11 @@
- ### :fire: My stats
+ ### :fire: Full Stack Developer
  
  [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=FireflyStars&theme=vue-dark&hide_border=true)](https://git.io/streak-stats)
-
+<!--
 ### Hi there 👋
 
 ``Full Stack Developer (Laravel, ASP.net, Node, React, Vue, Next, Nuxt, TypeScript, JavaScript)``
-
+-->
 ## Languages and Tools
 
 <div>
