@@ -171,6 +171,12 @@
 
 
 📫 You can also send me an email to gotodev7@gmail.com
+
+ ## :fire: My stats
+ 
+ [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=patriciacostadacruz&theme=dark&border_radius=6&exclude_days=Sun%2CSat)](https://git.io/streak-stats)
+  
+  <hr>
 <!--
 **FireflyStars/FireflyStars** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
