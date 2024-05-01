@@ -6,9 +6,9 @@
 
 <div>
   <p align="left">
-    <a href="https://www.atlassian.com/software/jira" target="_blank" rel="noreferrer">
+    <a href="https://www.laravel.com" target="_blank" rel="noreferrer">
       <img
-        src="https://img.icons8.com/color/512/jira.png"
+        src="https://img.icons8.com/color/512/laravel.png"
         alt="jira-software"
         width="30"
       />
@@ -16,7 +16,7 @@
     &nbsp;
     <a href="https://www.atlassian.com/software/confluence" target="_blank" rel="noreferrer">
       <img
-        src="https://img.icons8.com/fluency/512/confluence.png"
+        src="https://img.icons8.com/fluency/512/vue.png"
         alt="jira-confluence"
         width="30"
       />
