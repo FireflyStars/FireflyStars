@@ -174,7 +174,7 @@
 
  ## :fire: My stats
  
- [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=patriciacostadacruz&theme=dark&border_radius=6&exclude_days=Sun%2CSat)](https://git.io/streak-stats)
+ [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=FireflyStars&theme=vue-dark&hide_border=true)](https://git.io/streak-stats)
   
   <hr>
 <!--
