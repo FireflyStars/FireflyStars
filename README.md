@@ -183,7 +183,7 @@
 ## Contact
 
 
-📫 You can also send me an email to gotodev7@gmail.com
+📫 gotodev7@gmail.com
 
 
 <!--
