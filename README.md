@@ -180,12 +180,6 @@
 - With a passion for both front-end and back-end development, I am a versatile full stack developer with 6 of experience in creating robust and scalable web applications. Armed with a solid foundation in programming languages such as JavaScript, Python, C#, and PHP, I excel in crafting intuitive user interfaces and designing efficient server-side architectures.
 
 
-## Contact
-
-
-📫 gotodev7@gmail.com
-
-
 <!--
 **FireflyStars/FireflyStars** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
